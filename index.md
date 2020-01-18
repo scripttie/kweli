@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Kweli - Pan-African Decentralized Identity
 
-You can use the [editor on GitHub](https://github.com/scripttie/kweli/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kweli is an approach to show the need for a Pan-African decentralized (self-sovereign) identity: The connection between digital identity, self-sovereign identity, and the opportunity for Africa. This is an initiative of the Identity Working Group of the [African Digital Asset Framework (ADAF)](http://adaf.io/). More tools and resources on how to get started can be found [here](https://github.com/african-digital-asset-framework/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Pan-African decentralized digital identity can support economic, social and cultural trade between the continent and its diaspora. This paper proposes a framework for a mobile-first identity that can connect a digital network of hundreds of millions of people of African descent. This digital network can create economic prosperity and cultural progress for a significant part of the global population. To make this possible, there is an urgent need for a Pan-African version of decentralized identity framework. This is because new developments in artificial intelligence and distributed ledger technologies will power the Internet’s decentralized infrastructure for these digital networks.   
 
-### Markdown
+## Background
+Kweli is both an idea and technological standard. This paper explains the idea. Kweli as the idea to create a new understanding of identity: a Pan-African self-sovereign digital identity where every African, regardless of their geographic origin, can seamlessly engage in commercial activity on the African continent. This concept is a natural evolution of the cultural, economic and philosophical underpinnings of the Pan-African movement. Pan-Africanism stands to politically, economically and socially unite all peoples of African descent, regardless of their geographic origin. These rights are extended to all Africans under the African Union’s constitution, and the African Continental Free Trade Agreement is built under the African Union’s constitution. Therefore the African Union grants all Africans the legal right to freely move and trade on the continent. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kweli stands for the idea that every African person may choose to create, hold and maintain their own identity - and if they do - it will grant them the right and access to economic, social and cultural activity in Africa, one of the fastest growing continents in the world. The future of trade is rapidly digitizing and there is an urgent need to create identity infrastructure built by Africans, for Africans to engage in this trade. At the same time, there is an opportunity to accelerate Pan-African trade with digital tools for commerce - with identity being a fundamental tool. 
 
-```markdown
-Syntax highlighted code block
+Kweli provides a guiding technical framework for defining standardized schemas and credential definitions to support digital trade across Pan-African countries and people.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scripttie/kweli/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support or Contact
+ Got questions or suggestions to improve Kweli? Let us know what you think [here](https://github.com/african-digital-asset-framework/kweli/issues/new).
